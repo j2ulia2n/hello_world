@@ -1,6 +1,6 @@
 # hello_world
 
-# basic hello world program
+# basic hello_world program
 
 hello peeps!
 
